@@ -5,7 +5,7 @@ Ez a repository tartalmazza a <b>VASI ANDRÁS (SZÁMÍTÁSTECHNIKA SZAK - SAPIEN
 ## Tartalomjegyzék
 
 - src/: A fő forráskód könyvtár, amely tartalmazza a projekt minden szükséges komponensét és modulját.
-- docs/: Dokumentáció, ami részletesen leírja a projekt céljait, felépítését és használatát
+- docs/: Könyvtár, mely tartalmazza a projekt dokumentáció, ami részletesen leírja a projekt céljait, felépítését, használatát és eredményeit, illtve mellékelve elérhetőek különboző Függelék dokumentumok is
 - README.md: A projekt rövid bemutatása és fontosabb információk.
 
 ## Hogyan használd?
@@ -35,7 +35,7 @@ This repository contains the thesis of <b>ANDRÁS VASI (COMPUTER SCIENCE - SAPIE
 
 ## Table of Contents
 - src/: The main source code directory containing all necessary components and modules of the project.
-- docs/: Documentation detailing the project's goals, structure, and usage.
+- docs/: Directory containing the project documentation, which details the project's objectives, structure, usage, and results. Additionally, various Appendix documents are also available as attachments.
 - README.md: A brief introduction and key information about the project.
 
 ## How to Use?
