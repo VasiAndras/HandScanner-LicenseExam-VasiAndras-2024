@@ -11,7 +11,7 @@ Ez a repository tartalmazza a <b>VASI ANDRÁS (SZÁMÍTÁSTECHNIKA SZAK - SAPIEN
 ## Hogyan használd?
 1. Klónozd a repository-t a saját gépedre:
 ```bash
-git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
+git clone https://github.com/VasiAndras/HandScanner-LicenseExam-VasiAndras-2024.git
 ```
 2. Bízrosítsd a projektben bemutatott hardveres és operációs rendszer szinű követlményeket.
 3. Kövesd a dokumentációban leírt lépéseket a környezet beállításához és a kód futtatásához.
@@ -41,7 +41,7 @@ This repository contains the thesis of <b>ANDRÁS VASI (COMPUTER SCIENCE - SAPIE
 ## How to Use?
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/VasiAndras/LicenseExam-CompSci2024-VA.git
+git clone https://github.com/VasiAndras/HandScanner-LicenseExam-VasiAndras-2024.git
 ```
 2. Ensure the hardware and operating system requirements presented in the project are met.
 3. Follow the steps in the documentation to set up the environment and run the code.
