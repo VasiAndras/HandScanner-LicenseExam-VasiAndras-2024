@@ -1,0 +1,1 @@
+# HandScanner-LicenseExam-VasiAndras-2024
