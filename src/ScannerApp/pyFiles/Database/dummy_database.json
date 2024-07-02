@@ -1,0 +1,228 @@
+{
+    "general": {
+        "totalImageCount": 0,
+        "totalUserCount": 20
+    },
+    "users": [
+        {
+            "usercode": "VA010101",
+            "legalName": "Vasi Andras",
+            "birthDay": "2001.01.01.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/VA010101_db",
+            "gdprFile": "GDPR_certificate_Vasi AndrasVA010101_.pdf"
+        },
+        {
+            "usercode": "KT001230",
+            "legalName": "Kepefugi Tihamer",
+            "birthDay": "2000.12.30.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/KT001230_db",
+            "gdprFile": "GDPR_certificate_Kepefugi TihamerKT001230_.pdf"
+        },
+        {
+            "usercode": "VA010202",
+            "legalName": "Vasi Andrea",
+            "birthDay": "2001.02.02.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/VA010202_db",
+            "gdprFile": "GDPR_certificate_Vasi AndreaVA010202_.pdf"
+        },
+        {
+            "usercode": "ML121029",
+            "legalName": "Makuki Lukacs",
+            "birthDay": "2012.10.29.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/ML121029_db",
+            "gdprFile": "GDPR_certificate_Makuki LukacsML121029_.pdf"
+        },
+        {
+            "usercode": "AB050505",
+            "legalName": "Alice Brown",
+            "birthDay": "2005.05.05.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 1
+            },
+            "directory": "Database/AB050505_db",
+            "gdprFile": "GDPR_certificate_Alice BrownAB050505_.pdf"
+        },
+        {
+            "usercode": "JK080808",
+            "legalName": "John Kelly",
+            "birthDay": "2008.08.08.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 0
+            },
+            "directory": "Database/JK080808_db",
+            "gdprFile": "GDPR_certificate_John KellyJK080808_.pdf"
+        },
+        {
+            "usercode": "EL030303",
+            "legalName": "Emma Lewis",
+            "birthDay": "2003.03.03.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 1
+            },
+            "directory": "Database/EL030303_db",
+            "gdprFile": "GDPR_certificate_Emma LewisEL030303_.pdf"
+        },
+        {
+            "usercode": "RP111111",
+            "legalName": "Richard Parker",
+            "birthDay": "2011.11.11.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 1
+            },
+            "directory": "Database/RP111111_db",
+            "gdprFile": "GDPR_certificate_Richard ParkerRP111111_.pdf"
+        },
+        {
+            "usercode": "LS090909",
+            "legalName": "Laura Smith",
+            "birthDay": "2009.09.09.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/LS090909_db",
+            "gdprFile": "GDPR_certificate_Laura SmithLS090909_.pdf"
+        },
+        {
+            "usercode": "TS040404",
+            "legalName": "Tom Sawyer",
+            "birthDay": "2004.04.04.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 0
+            },
+            "directory": "Database/TS040404_db",
+            "gdprFile": "GDPR_certificate_Tom SawyerTS040404_.pdf"
+        },
+        {
+            "usercode": "AS070707",
+            "legalName": "Anna Smith",
+            "birthDay": "2007.07.07.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 1
+            },
+            "directory": "Database/AS070707_db",
+            "gdprFile": "GDPR_certificate_Anna SmithAS070707_.pdf"
+        },
+        {
+            "usercode": "PM060606",
+            "legalName": "Paula Martinez",
+            "birthDay": "2006.06.06.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 0
+            },
+            "directory": "Database/PM060606_db",
+            "gdprFile": "GDPR_certificate_Paula MartinezPM060606_.pdf"
+        },
+        {
+            "usercode": "MS010203",
+            "legalName": "Michael Stewart",
+            "birthDay": "2001.02.03.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/MS010203_db",
+            "gdprFile": "GDPR_certificate_Michael StewartMS010203_.pdf"
+        },
+        {
+            "usercode": "JW131313",
+            "legalName": "Jessica Walker",
+            "birthDay": "2013.01.13.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 1
+            },
+            "directory": "Database/JW131313_db",
+            "gdprFile": "GDPR_certificate_Jessica WalkerJW131313_.pdf"
+        },
+        {
+            "usercode": "DS121212",
+            "legalName": "Daniel Scott",
+            "birthDay": "2012.12.12.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/DS121212_db",
+            "gdprFile": "GDPR_certificate_Daniel ScottDS121212_.pdf"
+        },
+        {
+            "usercode": "CN151515",
+            "legalName": "Catherine Nguyen",
+            "birthDay": "2015.03.15.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 0
+            },
+            "directory": "Database/CN151515_db",
+            "gdprFile": "GDPR_certificate_Catherine NguyenCN151515_.pdf"
+        },
+        {
+            "usercode": "BR141414",
+            "legalName": "Brian Rodriguez",
+            "birthDay": "2014.02.14.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 1
+            },
+            "directory": "Database/BR141414_db",
+            "gdprFile": "GDPR_certificate_Brian RodriguezBR141414_.pdf"
+        },
+        {
+            "usercode": "EC161616",
+            "legalName": "Emily Clark",
+            "birthDay": "2016.04.16.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 1
+            },
+            "directory": "Database/EC161616_db",
+            "gdprFile": "GDPR_certificate_Emily ClarkEC161616_.pdf"
+        },
+        {
+            "usercode": "NW181818",
+            "legalName": "Nancy White",
+            "birthDay": "2018.06.18.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/NW181818_db",
+            "gdprFile": "GDPR_certificate_Nancy WhiteNW181818_.pdf"
+        },
+        {
+            "usercode": "WS191919",
+            "legalName": "William Smith",
+            "birthDay": "2019.07.19.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 0
+            },
+            "directory": "Database/WS191919_db",
+            "gdprFile": "GDPR_certificate_William SmithWS191919_.pdf"
+        }
+    ]
+}

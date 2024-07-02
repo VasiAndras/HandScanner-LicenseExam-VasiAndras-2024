@@ -1,0 +1,30 @@
+{
+    "general": {
+        "totalImageCount": 1,
+        "totalUserCount": 2
+    },
+    "users": [
+        {
+            "usercode": "TN000101",
+            "legalName": "Test Name",
+            "birthDay": "2000.01.01.",
+            "pictures": {
+                "rightHand": 1,
+                "leftHand": 0
+            },
+            "directory": "Database/TN000101_db",
+            "gdprFile": "GDPR_certificate_Test NameTN000101_.pdf"
+        },
+        {
+            "usercode": "VA211201",
+            "legalName": "Vasi A",
+            "birthDay": "2021.12.01.",
+            "pictures": {
+                "rightHand": 0,
+                "leftHand": 0
+            },
+            "directory": "Database/VA211201_db",
+            "gdprFile": "GDPR_certificate_Vasi AVA211201_.pdf"
+        }
+    ]
+}
